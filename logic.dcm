@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AUP1G06DCKR
+D Single Buffer
+K Buffer, Driver, 7400
+$ENDCMP
+#
+$CMP SN74AUP1G07DCKR
+D Single Buffer
+K Buffer, Driver, 7400
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SYSPWR
+#
+DEF SYSPWR #PWR 0 40 Y Y 1 F N
+F0 "#PWR" 50 -50 100 H I C CNN
+F1 "SYSPWR" 0 125 50 H V C CNN
+F2 "" 0 0 100 H V C CNN
+F3 "" 0 0 100 H V C CNN
+DRAW
+P 2 0 1 0  0 0  0 100 N
+P 2 0 1 0  0 100  -25 50 N
+P 2 0 1 0  0 100  25 50 N
+X SYSPWR 1 0 0 0 L 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library

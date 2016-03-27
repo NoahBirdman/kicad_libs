@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62260
+D Buck Regulator
+K Buck, Boost, VREG, regulator
+$ENDCMP
+#
+#End Doc Library

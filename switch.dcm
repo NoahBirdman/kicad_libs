@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2M1-SP1-T2-B4-M6RE
+D SPDT
+K Toggle, switch, spdt, dpdt, button
+$ENDCMP
+#
+#End Doc Library
